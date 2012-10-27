@@ -1,4 +1,4 @@
 GoMonkey
 ========
 
-A Game for Android
+A Jump and Run game for Android! Coming Soon!
