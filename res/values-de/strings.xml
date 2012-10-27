@@ -4,5 +4,8 @@
     <string name="app_name">GoMonkey</string>
     <string name="welcome_text">Willkommen bei Go! Monkey</string>
     <string name="copyright">\u00A9 BadMonkeyStudios</string>
+    <string name="button_start">Spielen</string>
+    <string name="button_about">Über das Spiel</string>
+    <string name="button_credits">Credits</string>
     
 </resources>

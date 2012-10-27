@@ -26,10 +26,15 @@ public final class R {
         public static final int welcome_message=0x7f060001;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int about=0x7f030000;
+        public static final int credits=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
+        public static final int button_about=0x7f050004;
+        public static final int button_credits=0x7f050005;
+        public static final int button_start=0x7f050003;
         public static final int copyright=0x7f050002;
         public static final int welcome_text=0x7f050001;
     }

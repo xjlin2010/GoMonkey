@@ -13,6 +13,7 @@
         android:text="@string/copyright"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
+
     <TextView
         android:id="@+id/welcome_message"
         android:layout_width="wrap_content"
@@ -24,7 +25,11 @@
         android:text="@string/welcome_text"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="@color/brown" />
-
+
+
+
+
+
     <Button
         android:id="@+id/button_start"
         android:layout_width="wrap_content"
@@ -34,8 +39,12 @@
         android:layout_marginRight="20dp"
         android:layout_toRightOf="@+id/welcome_message"
         android:background="@drawable/button_menu"
-        android:text="Button" />
-
+        android:text="@string/button_start" />
+
+
+
+
+
     <Button
         android:id="@+id/button_about"
         android:layout_width="wrap_content"
@@ -46,8 +55,14 @@
         android:layout_marginRight="20dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/button_menu"
-        android:text="Button" />
-
+        android:text="@string/button_about" />
+
+
+
+
+
+
+
     <Button
         android:id="@+id/button_credits"
         android:layout_width="wrap_content"
@@ -58,6 +73,6 @@
         android:layout_marginRight="20dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/button_menu"
-        android:text="Button" />
+        android:text="@string/button_credits" />
 
 </RelativeLayout>
