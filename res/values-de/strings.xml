@@ -3,5 +3,6 @@
 
     <string name="app_name">GoMonkey</string>
     <string name="welcome_text">Willkommen bei Go! Monkey</string>
-
+    <string name="copyright">\u00A9 BadMonkeyStudios</string>
+    
 </resources>
