@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Willkommen bei Go Monkey!</string>
-    <string name="app_name">Go Monkey!</string>
-    <string name="start_game">Spiel starten</string>
+    <string name="app_name">GoMonkey</string>
+    <string name="welcome_text">Willkommen bei Go! Monkey</string>
 
 </resources>
